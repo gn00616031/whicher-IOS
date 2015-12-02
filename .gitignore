@@ -17,6 +17,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 *.properties
+Resources/config.plist
 
 # CocoaPods
 #
